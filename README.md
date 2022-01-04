@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris! I am currently a full stack software engineer.
+- 👋 Hi, I’m Chris! I am currently a full stack software engineer based in New York City, NY.
 - 👀 I’m interested in using React to make dynamic web applications!
 - 🌱 I’m currently learning how to intregate different kinds of APIs in my projects!
 - 💞️ I'm always looking to chat about React.js! I love talking about React and hey, we might both just learning something new!
